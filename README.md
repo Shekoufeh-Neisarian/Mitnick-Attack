@@ -4,7 +4,7 @@
 
 This repository documents a controlled reproduction of the classic Mitnick TCP spoofing attack, using the SEED Labs Docker environment. It is designed as a practical learning reference: the commands, observed packet behavior, screenshots, errors, and fixes are explained in the accompanying report.
 
-[**Read the complete illustrated report (PDF)**](Mitnick_Attack_Project_Report.pdf)
+[**Read the complete illustrated report (PDF)**](Mitnick_Attack.pdf)
 
 ## What was demonstrated?
 
